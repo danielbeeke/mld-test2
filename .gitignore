@@ -1,0 +1,8 @@
+node_modules
+
+# Apple
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
